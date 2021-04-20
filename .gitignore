@@ -1,3 +1,7 @@
+# Log directory and files
+logs/
+*.log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
